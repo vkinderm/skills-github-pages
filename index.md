@@ -2,4 +2,6 @@
 title: Welcome to my blog!
 ---
 
-Hier werde ich meine Lernfortschritte dokumentieren
+### Introduction
+
+On this page I will document my learning success
